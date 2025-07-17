@@ -1,0 +1,6 @@
+spring:  # 주의할 점은 내용작성시 들여쓰기 내어쓰기를 반드시 꼭 지켜야 한다. 
+        
+  thymeleaf:
+      cache: false
+      prefix: classpath:/templates/
+      suffix: .html    
